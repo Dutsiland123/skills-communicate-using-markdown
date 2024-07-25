@@ -15,6 +15,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+- [ ] Aprende a usar MArdown de Github.
+- [ ] Compra tu menu en la esquina.
+- [ ] Pasea a tu perro.
+
 Aprendi a usar h1, h2 y h6.
 Aprendi a añadir imagen.
 Aprendi a añadir codigo.
